@@ -1,1 +1,5 @@
-# segunda_parcial_felipe
+# Tarea_Personas_Ciudades
+FELIPE BARANDA
+DELCY MENDOZA
+NILSA MEZA
+IVAN VILLALBA
