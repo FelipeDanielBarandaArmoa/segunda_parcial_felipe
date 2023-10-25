@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "bvOjKHkVdd5JglcWqRMeqi04Uqxss39H37pBwwO/d54Tqggn+Kh4881Uy1EoBwxqUErPHIzeVFsYrkv3lVzlSA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\PC-SOPORTE1A\\Downloads\\Tarea_Personas_Ciudades-master\\OptativoTresNet\\OptativoTresNet.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PC-SOPORTE1A\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\PC-SOPORTE1A\\.nuget\\packages\\npgsql\\8.0.0-preview.4\\npgsql.8.0.0-preview.4.nupkg.sha512"
+  ],
+  "logs": []
+}
